@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://enhun.github.io/about/</loc>
-    <lastmod>2020-09-09T10:49:23+08:00</lastmod>
+    <loc>https://enhun.github.io/categories/</loc>
+    <lastmod>2020-09-10T18:54:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://enhun.github.io/tags/</loc>
+    <lastmod>2020-09-10T18:54:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://enhun.github.io/tags/teacher/</loc>
+    <lastmod>2020-09-10T18:54:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://enhun.github.io/categories/teacher/</loc>
+    <lastmod>2020-09-10T18:54:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://enhun.github.io/blog/teacher/</loc>
+    <lastmod>2020-09-10T18:54:47+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://enhun.github.io/</loc>
+    <lastmod>2020-09-10T18:54:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://enhun.github.io/about/</loc>
     <lastmod>2020-09-09T10:49:23+08:00</lastmod>
   </url>
   
@@ -18,17 +43,7 @@
   </url>
   
   <url>
-    <loc>https://enhun.github.io/categories/</loc>
-    <lastmod>2020-09-09T10:07:47+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://enhun.github.io/categories/pay-for-book/</loc>
-    <lastmod>2020-09-09T10:07:47+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://enhun.github.io/tags/</loc>
     <lastmod>2020-09-09T10:07:47+08:00</lastmod>
   </url>
   
